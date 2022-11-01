@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/[YT2mp3.info] - Lego yoda death sound (320kbps)-[AudioTrimmer.com] (1).mp3-a9b8431c8355b5ad5e1ab260359d1ecb.mp3str"
+
+[deps]
+
+source_file="res://[YT2mp3.info] - Lego yoda death sound (320kbps)-[AudioTrimmer.com] (1).mp3"
+dest_files=[ "res://.import/[YT2mp3.info] - Lego yoda death sound (320kbps)-[AudioTrimmer.com] (1).mp3-a9b8431c8355b5ad5e1ab260359d1ecb.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
